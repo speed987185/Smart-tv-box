@@ -2,7 +2,7 @@
 a smart tv box that is used to make non smart tv into smart tv
 
 # Description:
-this a box that uses rasberry pie to power and it is connected with gpio for extra usb ports this can make your normal monitor a non smart tv into smart. rasberry run a linux that have bluestack installed and smart tv ui can be applied or it can aslo be used as a mini computer that is can perform daily task and do some coding ..
+this a box that uses rasberry pie to power and it is connected with gpio for extra usb ports this can make your normal monitor a non smart tv into smart. rasberry run a linux that have bluestack installed and smart tv ui can be applied or it can aslo be used as a mini computer that is can perform daily task and do some coding .. i made this project for fun as i have tv its huge but not smart so i can make it smart and aslo use for coding and i can do workshop for hackclub too lol  ..
 
 # Features:
 40-pin GPIO header interface for Raspberry Pi
