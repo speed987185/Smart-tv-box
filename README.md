@@ -26,6 +26,7 @@ all the file are included in PCB and Shemantic and also cad step file
 No custom firmware is required.
 
 The system runs on Raspberry Pi OS, which handles all processing and functionality.
+you can easily run rasberry pi os by installing offical iso iamge into the sanddisk that i have provided link of in BOM and insert in pi and you can watch any open source video on youtube for furthure code instruction 
 
 # How to assembel:
 To assemble the project, first solder a 40-pin stacking header onto your PCB with the long pins facing upward, then insert a microSD card into the Raspberry Pi 4 Model B and mount the Pi securely inside the bottom part of your 3D-printed case using M2.5 screws and standoffs; next, carefully align the GPIO header on your PCB with the Raspberry Pi’s GPIO pins and press it down gently so it sits firmly and evenly, ensuring correct pin alignment, after which you can place the top cover of the enclosure and secure it, and finally connect external cables such as power (USB-C), micro HDMI, and any peripherals directly to the Raspberry Pi’s ports to power on and use the system.
